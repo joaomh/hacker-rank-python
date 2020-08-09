@@ -16,7 +16,7 @@ Index
 ---
 
 * [Algorithms](#algorithms) (0/409)
-* [Data Structures](#data-structures) (11/114)
+* [Data Structures](#data-structures) (21/114)
 * [Mathematics](#mathematics) (0/250)
 
 Data Structures
